@@ -1,7 +1,7 @@
 # magento
 
-I will share all custome modules or core fixes in this repo. 
+This short module has a core fix. 
 
-For now it will following modules, ready to install. 
+In magento CE 1.9.x and EE 1.14.x attribute lable for configurable product on product page is not store label, it always shows default label. 
 
-There will be a branch for each module and submodules. 
+Installing this module you will be able to see store label if default is not set for all stores. 
