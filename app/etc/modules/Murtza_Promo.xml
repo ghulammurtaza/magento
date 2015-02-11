@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Murtza_Promo>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Adminhtml />
+            </depends>
+        </Murtza_Promo>
+    </modules>
+</config>

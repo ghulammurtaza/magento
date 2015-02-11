@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Murtza_Promo>
+            <version>0.1.0</version>
+        </Murtza_Promo>
+    </modules>
+    <global>
+        <blocks>
+            <adminhtml>
+                <rewrite>
+                    <promo_quote_edit>Murtza_Promo_Block_Quote_Edit</promo_quote_edit>
+                </rewrite>
+            </adminhtml>
+        </blocks>
+    </global>
+</config>
